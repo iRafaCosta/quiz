@@ -92,7 +92,7 @@ function checkCount(){
     }else{
         setTimeout(()=>{
             getQuestions()
-        },300)
+        },1000)
     }
 }
 
